@@ -4,8 +4,8 @@ dados_conexao = (
     "Driver={MySQL ODBC 9.7 ANSI Driver};"
     "Server=localhost;"
     "port=3306;"
-    "UID=root;"
-    "PWD=2010;"
+    "UID=SEU-USUARIO;"
+    "PWD=SUA-SENHA;"
     "Database=escola;"
 )
 
